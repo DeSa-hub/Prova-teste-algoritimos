@@ -1,0 +1,1 @@
+1 Pré-definidos são elementos já definidos pela linguagem e não precisam ser criadas pelo usuário, os três tipos são operadores, palavras reservadas e caracteres especiais, os identificadores são definidos pelo usuário já os pré-definidos não
